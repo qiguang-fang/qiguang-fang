@@ -1,6 +1,6 @@
 ### こんにちは  👋
 
-### <div align="center">ホウ キコウです 👨‍💻  2020年からリモートのMulesoft開発者です。🚀</div>  
+### <div align="center">ホウ キコウです 👨‍💻  2020年からリモートのMulesoftデベロッパーです。🚀</div>  
   
 
 - 🔭 現在は [mule tutorial](https://github.com/qiguang-fang/mule-demo)  に取り組んでいます
