@@ -1,11 +1,25 @@
-### Hi there 👋
+### こんにちは  👋
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">ホウ キコウです 👨‍💻  2020年からリモートのMulesoft開発者です。🚀</div>  
   
 
-### <div align="center">I'm Qiguang Fang, a full-time mulesoft developer 👨‍💻 working remotely since 2020 🚀</div>  
+- 🔭 現在は [mule tutorial](https://github.com/qiguang-fang/mule-demo)  に取り組んでいます
+  
+
+- 🌱 MuleSoft Certified Platform Architect - Level 1を学んでいます 
+  
+
+- ❓ MuleSoftに関連する何でも私にお尋ねください 
+  
+
+- ⚡ 面白いこと：毎日日光浴🌞をやっています~
+  
+
+<br/>  
+
+### Hi there 👋
+
+### <div align="center">I'm Qiguang Fang, a mulesoft developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [mule tutorial](https://github.com/qiguang-fang/mule-demo)  
@@ -17,13 +31,13 @@
 - ❓ Ask me about anything related to muleSoft  
   
 
-- ⚡ Fun fact: Sunbathe every day  
+- ⚡ Fun fact: Sunbathe every day🌞~
   
 
 <br/>  
 
 
-## My Skill Set  
+## スキルセット(Skill Set)  
 <table><tr><td valign="top" width="33%">
 
 
@@ -66,7 +80,7 @@
 
 <br/>  
 
-## Connect with me  
+## わたしとつながる(Connect with me)
 <div align="center">
 <a href="https://github.com/qiguang-fang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,12 +93,12 @@
 <br/>  
 
 
-## Github Stats  
+## Github統計(Github Stats) 
 ![qiguang-fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiguang-fang&show_icons=true&theme=tokyonight)
 <br/>  
 
 
-## Recent Blog Posts  
+## 最近のブログ記事(Recent Blog Posts)  
 <!-- BLOG-POST-LIST:START -->  
 [ゼロから始めるMuleSoft学習旅行](https://qiita.com/qiguang-fang/items/a2a24f16c0fcb8915316)  
 <br />
@@ -94,7 +108,7 @@
 
 <br />
 
-## My visitor
+## 訪問者(My visitor)
 My![Visitor Count](https://profile-counter.glitch.me/qiguang-fang/count.svg) visitor
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
