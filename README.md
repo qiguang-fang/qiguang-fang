@@ -9,7 +9,7 @@
 - 🌱 MuleSoft Certified Platform Architect - Level 1を学んでいます 
   
 
-- ❓ MuleSoftに関連する何でも私にお尋ねください 
+- ❓ MuleSoftに関連する何でも、是非話しかけてください。
   
 
 - ⚡ 面白いこと：毎日日光浴🌞をやっています~
