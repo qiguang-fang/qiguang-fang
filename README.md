@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My![Visitor Count](https://profile-counter.glitch.me/qiguang-fang/count.svg) visitor
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiguang-fang&layout=compact)](https://github.com/qiguang-fang/github-readme-stats)
+
+![qiguang-fang's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiguang-fang&show_icons=true&theme=tokyonight)
