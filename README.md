@@ -6,7 +6,7 @@
 - 🔭 現在は [mule tutorial](https://github.com/qiguang-fang/mule-demo)  に取り組んでいます
   
 
-- 🌱 MuleSoft Certified Platform Architect - Level 1を学んでいます 
+- 🌱 MCD2を学んでいます 
   
 
 - ❓ MuleSoftに関連する何でも、是非話しかけてください。
@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on [mule tutorial](https://github.com/qiguang-fang/mule-demo)  
   
 
-- 🌱 I’m currently learning MuleSoft Certified Platform Architect - Level 1  
+- 🌱 I’m currently learning MuleSoft Certified Developer - Level 2 
   
 
 - ❓ Ask me about anything related to muleSoft  
